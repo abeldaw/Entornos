@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Practica_3._1.sln.Properties
+namespace Ejercicio02_2._3.Properties
 {
 
 
