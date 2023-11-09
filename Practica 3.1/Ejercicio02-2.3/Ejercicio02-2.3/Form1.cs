@@ -47,7 +47,7 @@ namespace Ejercicio02_2._3
             else
             {
                 //Si el telegrama es urgente
-                if (tipoTelegrama == 'u')
+                if (tipoTelegrama == 'u'
                 {
                     if (numPalabras <= 10)
                     {
